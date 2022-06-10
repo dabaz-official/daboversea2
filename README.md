@@ -13,6 +13,18 @@ This is the [repository](https://github.com/dabaz-official/daboversea2/) for [Da
   Beautiful hand-crafted SVG icons
 - [**Vercel**](https://vercel.com/) - 
   Platform to deploy
+  
+## How to run it?
+
+`
+npm i
+`
+
+`
+npm run dev
+`
+
+Generally, the web app will start on http://localhost:3000
 
 ## Want to work with me?
 
