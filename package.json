@@ -1,6 +1,7 @@
 {
   "name": "daboversea",
-  "version": "0.1.0",
+  "version": "0.2.0",
+  "author": "DabAZ",
   "private": true,
   "scripts": {
     "dev": "next dev",
