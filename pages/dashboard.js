@@ -8,7 +8,7 @@ export default function Dashboard() {
       <Head>
         <title>DabOversea</title>
         <meta name="description" content="Designed & created by DabAZ" />
-        <link rel="icon" href="/dabaz.ico" />
+        <link rel="icon" href="/img/logo.svg" />
       </Head>
 
       <Header />
