@@ -5,7 +5,7 @@ export default function changePassword() {
   return (
     <>
       <Head>
-        <title>DabOversea</title>
+        <title>Change your password - DabOversea</title>
         <meta name="description" content="Designed & created by DabAZ" />
         <link rel="icon" href="/img/logo.svg" />
       </Head>
