@@ -1,9 +1,15 @@
 import { LockClosedIcon } from "@heroicons/react/outline"
 import Link from "next/link"
 
-export default function signIn() {
+export default function changePassword() {
   return (
     <>
+      <Head>
+        <title>DabOversea</title>
+        <meta name="description" content="Designed & created by DabAZ" />
+        <link rel="icon" href="/img/logo.svg" />
+      </Head>
+    
       <div className="min-h-full flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
         <div className="max-w-md w-full space-y-8">
           <div>
